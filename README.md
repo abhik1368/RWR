@@ -1,4 +1,4 @@
 RWR
 ===
 
-Drug Target Prediction with Random walk with restart
+Drug Target Prediction by Random walk with restart
