@@ -1,4 +1,3 @@
-
 rwwr<-function(a,b,c){
   
 #sequence similairty matrix normalized between 0 and 1 
@@ -109,7 +108,7 @@ for (i in 1:nrow(seq)){
   }
 }
 write.csv(MTT,"MTT_PHFP4_loo.csv")
-write.csv(MDD,"MDD_ECFP_loo.csv")
+write.csv(MDD,"MDD_PHFP4_loo.csv")
 write.csv(MDT,"MDT_PHFP4_loo.csv")
 write.csv(MTD,"MTD_PHFP4_loo.csv")
 
